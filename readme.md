@@ -37,7 +37,7 @@ Huggingfacetoken=your_hf_token
 
 ## Usage
 -----
-To use the MultiPDF Chat App, follow these steps:
+To use the pdf Chat App, follow these steps:
 
 1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
 
@@ -54,4 +54,4 @@ To use the MultiPDF Chat App, follow these steps:
 
 ## License
 -------
-The MultiPDF Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
+The pdf Chat App is released under the [MIT License](https://opensource.org/licenses/MIT).
